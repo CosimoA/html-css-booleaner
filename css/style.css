@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.contenitore{
+    background-color: white;
+}
+
+
+header{
+    background-color: rgb(78 160 255);
+    background-image: url(../img/pattern.png);
+}
+
+.logocontainer{
+    height: 180px;
+}
+
+.logotopspace{
+    height: 70px;
+}
+
+#logo{
+    height: 100px;
+    padding-bottom: 10px;
+    /* position: relative;
+    top: 70px | (LA SOLUZIONE PIù CORRETTA SAREBBE STATA QUESTA MA DATO CHE TEORICAMENTE NEL CORSO CON SIMONE NON ABBIAMO ANCORA AFFRONTATO QUESTO ATTRIBUTO MI SONO ARRANGIATO DEFINENDO LE ALTEZZE DEI 2 DIV CON CLASSE logocontainer E logotopspace SOPRAELENCATI)*/
+}
+
+h1{
+    font-size: 80px;
+}
+
